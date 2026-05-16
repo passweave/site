@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/passweave
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://passweave.com
+  * I am passweave (https://keybase.io/passweave) on keybase.
+  * I have a public key with fingerprint 27C2 789E 84ED 7F5F 5680  94A0 4382 E5D0 8F5C 39B9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b61097c08fd305bae0fef97fbea04df1c03057f4669659967d01db6b379cdf370a",
+      "fingerprint": "27c2789e84ed7f5f568094a04382e5d08f5c39b9",
+      "host": "keybase.io",
+      "key_id": "4382e5d08f5c39b9",
+      "kid": "0101b61097c08fd305bae0fef97fbea04df1c03057f4669659967d01db6b379cdf370a",
+      "uid": "c18b291075482d97b9f4c46d0c630f19",
+      "username": "passweave"
+    },
+    "merkle_root": {
+      "ctime": 1778896898,
+      "hash_meta": "d46e066cdeed7f7897d08a76c8dd2e9bce6596f9dabb9d97542e42d139530a9e",
+      "seqno": 27582292
+    },
+    "revoke": {
+      "sig_ids": [
+        "e6d14eecc516a4f1ec6cdc02196dd444398df853b9e41b63980cf9928a01e3390f"
+      ]
+    },
+    "service": {
+      "hostname": "passweave.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1778896954,
+  "expire_in": 157680000,
+  "prev": "527f5d88d5a8cc3715bd0ef499ad228d83aa8645fa524b4cd8f9fa4b3be66d49",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.17
+Comment: https://keybase.io/crypto
+
+yMK1AnicrVNfiFVFHL7XzS67Kq2sEmuadQraYl1mzpmZM3OJNRYsCCFffHLrOn9+
+s/d4995zO+fsXU0XwZDIHpTYUiihCKvdyA03QXEr2aKHJAisWCopk6LIDXIj6R82
+Zymi6LF5GWbm+33fN9/85p0VbYWO4vja0U2b9ny1u3hududIYUfpg/JuT8Vml+fm
+GixOMGwgzSq1yHhlD2GEFcNIhBpxawJElQRkwYrQKpCIGIs1ctuhJYwJRoVgoUHY
+KKaCUGhjgxBJr9ezUWMIkmYSNTJH64faD7kATsCEllrKOBLE0QXcB2qcFNWBUMIV
+VuM0r3DmlEyhL4rdnltUFu39B/5/9j2ySKcxV77AKKSE+0aESliiCTNIswBZnOuO
+pJA0ZB0cuinTdBRkC7yxXq8OSW0YKkkcZ3m6OotyDA5DzgXjgrsbyrRaqUMmXakh
+DBBj2kAejIvImeIyZJob44NQGpxVZoWRSglnhBIfiG9wIGiApABnJIWHG7FX9kPK
+fV/4zkICrbgGuXoaDbngUq+8zQNmMAHQmmImicWgnapGPhbMGEJIILixnAZKAHFR
+uiXSVgifS4QhCASy3oNjuVrSivQief5S/06gT8d156mZxFms42F3VM2yZjkPJtvV
+zKGjoCp/klRU1DCuT1xBC5I0ihsuKIf8Z2aCkl4PdjajBCpRjqCh6x43chloOUrq
+u54ynBsqudZBiKkyCCwRQhrf54YHUnJGqJXUJ4pow62wkqhAAWOGiL9DxMz5lEOO
+0yXXkNlI4t509uzgdYViR+H6pUvyD1ToaO/861t9u7R0bezGqL+15P51B04/iScX
+ps7fOXBl/cD+8eUb+icPv3fxvs+Wz5+7uP+Ju76Yqx48UmpHd1/ddvDoirfbOrfM
+vDV9clV/+czsD193wYVCte2Bb7reLN8zfvN3n39/4sUvn99zdsMdL3Rn6bobXnm3
+9lRP1+aNr9L3B8Mr20+Utm+enqj0lD58Tje7546v+fXAsunh1ur1px/dUjyz98fD
+H0XPXorPV2e2PnLTxjVbJ9be+/ihKe9UdvnyQz23dLdnA4M9U+T1sdrTxUsDL83f
+dvLIoc6+U70vT3762yf73pjZcevV3vK14PZ9RydWBgsdx36e/fj3BfzLY7V6yhsr
+n5k/Pr/6tblO7ye07Fi06sLe5h+2Vn1k
+=56D2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/passweave
+
+==================================================================
